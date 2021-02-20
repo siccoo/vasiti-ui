@@ -64,7 +64,13 @@ const Home = () => {
             </section>
             <section className="portion3">
                 <div className="container">
-
+                    <div className="row">
+                        <div className="col-md-7">
+                            <div className="portion3-bg">
+                                <img src={Img1} alt="portion3-img" className="portion3-img" />
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>
         </div>

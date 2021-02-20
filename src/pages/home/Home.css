@@ -65,6 +65,14 @@ ul#horizontal-list li {
     padding-left: 20px;
 }
 
+@media only screen and (max-width: 1024px) {
+    .portion2 p {
+        font-size: 14px;
+        line-height: 20px;
+        padding: auto;
+    }
+}
+
 .portion2 .portion2-bg {
     background: url('../../images/Subtract.svg') no-repeat center center;
   -webkit-background-size: cover;
