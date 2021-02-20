@@ -2,6 +2,7 @@
 
 .navbar {
     padding: 0px;
+    margin: 5px;
 }
 
 .nav-bg {
@@ -41,8 +42,9 @@
 }
 
 .navbar-nav .nav-item .nav-btn {
-    background: #F78500;
-    border-radius: 49px;
+    background: #FF5C00;
+    border-radius: 4px;
+    box-shadow: 1px 4px 8px #ef580333;
     color: #FFFFFF !important;
     font-family: "Montserrat";
     font-size: 18px;

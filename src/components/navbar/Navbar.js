@@ -25,31 +25,39 @@ const Topbar = () => {
                                     className="nav-link"
                                     to="/"
                                 >
-                                Home
+                                About
                                 </NavLink>
                             </li>
                             <li className="nav-item">
                                 <NavLink
                                     className="nav-link"
-                                    to="/contact"
+                                    to="/"
                                 >
-                                Contact us
+                                Stories
                                 </NavLink>
                             </li>
                             <li className="nav-item">
                                 <NavLink
                                     className="nav-link"
-                                    to="/faq"
+                                    to="/"
                                 >
-                                FAQ's
+                                Contact
+                                </NavLink>
+                            </li>
+                            <li className="nav-item">
+                                <NavLink
+                                    className="nav-link"
+                                    to="/"
+                                >
+                                Login
                                 </NavLink>
                             </li>
                             <li className="nav-item">
                                 <NavLink
                                     className="nav-btn"
                                     to="/user"
-                                >
-                                Login
+                                >   
+                                Sign Up
                                 </NavLink>
                             </li>
                         </ul>
