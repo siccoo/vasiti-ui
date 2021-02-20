@@ -413,7 +413,7 @@ ul#horizontal-list li {
 
 .portion6 {
     background: #fff;
-    padding: 50px 0 50px 0;
+    padding: 50px 0 70px 0;
 }
 
 .portion6 h3 {
@@ -494,3 +494,7 @@ ul#horizontal-list li {
     }
 }
 
+.portion7 {
+    background: #25201D;
+    padding: 50px 0 40px 0;
+}

@@ -20,6 +20,7 @@ import Feyi from "../../images/Feyi.svg";
 import Karen from "../../images/Karen.svg";
 import Oluchi from "../../images/Oluchi.svg";
 import Amos from "../../images/Amos.svg";
+import Subscribe from "../../images/subscribeImg.svg";
 
 const Home = () => {
     useEffect(() => {
@@ -201,8 +202,17 @@ const Home = () => {
                     </div>
                 </div>
             </section>
-            <section className="">
+            <section className="portion7">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-5">
+                            <img src={Subscribe} alt="portion7-img" className="portion7-img" />
+                        </div>
+                        <div className="col-md-7 text-left">
 
+                        </div>
+                    </div>
+                </div>
             </section>
             <section>
                 <Footer />
