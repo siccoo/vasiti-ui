@@ -14,6 +14,12 @@ import Emmanuel from "../../images/Emmanuel.svg";
 import Chisom from "../../images/Chisom.svg";
 import Oluwa from "../../images/Oluwa.svg";
 import Chidi from "../../images/Chidi.svg";
+import Temi from "../../images/Temi.svg";
+import Promise from "../../images/Promise.svg";
+import Feyi from "../../images/Feyi.svg";
+import Karen from "../../images/Karen.svg";
+import Oluchi from "../../images/Oluchi.svg";
+import Amos from "../../images/Amos.svg";
 
 const Home = () => {
     useEffect(() => {
@@ -155,40 +161,40 @@ const Home = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-4 text-left">
-                            <img src={Joseph} alt="portion6-img" className="portion6-img" />
-                            <h3>Joseph Ike</h3>
+                            <img src={Temi} alt="portion6-img" className="portion6-img" />
+                            <h3>Temi Obadofin</h3>
                             <p className="portion6-area"> <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                         <div className="col-md-4 text-left">
-                            <img src={Adetola} alt="portion6-img" className="portion6-img" />
-                            <h3>Adetola Fashina</h3>
+                            <img src={Promise} alt="portion6-img" className="portion6-img" />
+                            <h3>Promise Ejiofor</h3>
                             <p className="portion6-area"> <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                         <div className="col-md-4 text-left">
-                            <img src={Emmanuel} alt="portion6-img" className="portion6-img" />
-                            <h3>Emmanuel Fayemi</h3>
-                            <p className="portion6-area">In Akoka &nbsp; <span className="span">VENDOR</span></p>
+                            <img src={Feyi} alt="portion6-img" className="portion6-img" />
+                            <h3>Feyisola Arinola</h3>
+                            <p className="portion6-area"> <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                     </div>
                     <div className="row mt-5">
                         <div className="col-md-4 text-left">
-                            <img src={Chisom} alt="portion6-img" className="portion6-img" />
-                            <h3>Chisom Obilor</h3>
+                            <img src={Karen} alt="portion6-img" className="portion6-img" />
+                            <h3>Karen Ibeh</h3>
                             <p className="portion6-area"> <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                         <div className="col-md-4 text-left">
-                            <img src={Oluwa} alt="portion6-img" className="portion6-img" />
-                            <h3>Adunoluwa Adeyemi</h3>
+                            <img src={Oluchi} alt="portion6-img" className="portion6-img" />
+                            <h3>Oluchi Uzo</h3>
                             <p className="portion6-area"> <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                         <div className="col-md-4 text-left">
-                            <img src={Chidi} alt="portion6-img" className="portion6-img" />
-                            <h3>Chidi Okeke</h3>
+                            <img src={Amos} alt="portion6-img" className="portion6-img" />
+                            <h3>Amos Okafor</h3>
                             <p className="portion6-area"> <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
