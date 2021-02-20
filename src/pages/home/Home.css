@@ -263,6 +263,26 @@ ul#horizontal-list li {
     }
 }
 
+.portion4 .span {
+    background: #F0FFEE;
+    border-radius: 4px;
+    padding: 5px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #049A01;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion4 .span {
+        font-size: 11px;
+        line-height: 13px;
+    }
+}
+
 .portion4 p {
     max-width: 300px;
     font-family: "Inter";
