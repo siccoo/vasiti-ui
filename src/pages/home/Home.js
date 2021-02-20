@@ -75,7 +75,7 @@ const Home = () => {
                         <div className="col-md-5 text-left">
                             <h1>Tolu & Joy’s Experience</h1>
                             <span>CUSTOMER</span>
-                            <p>I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back! I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back!</p>
+                            <p className="paragraph">I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back! I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back!</p>
                             <p className="story">Share your own story!</p>
                             <img src={Slant} alt="slant-line" className="slant-line" />
                         </div>

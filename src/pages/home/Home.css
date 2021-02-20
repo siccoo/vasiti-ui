@@ -139,5 +139,52 @@ ul#horizontal-list li {
     line-height: 16px;
     letter-spacing: 0.02em;
     color: #FFFFFF;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion3 span {
+        font-size: 11px;
+        line-height: 13px;
+    }
+}
+
+.portion3 .paragraph {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion3 .paragraph {
+        font-size: 12px;
+        line-height: 14px;
+        margin: auto;
+    }
+}
+
+.portion3 .story {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 50px
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion3 .story {
+        font-size: 12px;
+        line-height: 14px;
+        margin: auto;
+    }
 }
 
