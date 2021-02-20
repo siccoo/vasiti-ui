@@ -6,6 +6,7 @@ import "./Home.css";
 
 import Img1 from "../../images/Testimonial.svg";
 import Img2 from "../../images/black-beautiful-ladies.svg";
+import Slant from "../../images/slant-line.svg";
 
 const Home = () => {
     useEffect(() => {
@@ -76,7 +77,7 @@ const Home = () => {
                             <span>CUSTOMER</span>
                             <p>I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back! I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back!</p>
                             <p className="story">Share your own story!</p>
-                            <img src={Img2} alt="slant-line" className="slant-line" />
+                            <img src={Slant} alt="slant-line" className="slant-line" />
                         </div>
                     </div>
                 </div>

@@ -107,3 +107,20 @@ ul#horizontal-list li {
     width: 100%;
     height: 572px;
 }
+
+.portion3 h1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion2 h1 {
+        font-size: 22px;
+        line-height: 29px;
+    }
+}
