@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Navbar from "../../components/navbar/Navbar";
-// import Footer from "../../components/footer/Footer";
+import Footer from "../../components/footer/Footer";
 import "./Home.css";
 
 import Img1 from "../../images/Testimonial.svg";
@@ -200,6 +200,12 @@ const Home = () => {
                         </div>
                     </div>
                 </div>
+            </section>
+            <section className="">
+
+            </section>
+            <section>
+                <Footer />
             </section>
         </div>
     )
