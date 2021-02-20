@@ -335,13 +335,13 @@ ul#horizontal-list li {
 }
 
 @media only screen and (max-width: 1024px) {
-    .portion2 h1 {
+    .portion5 h1 {
         font-size: 22px;
         line-height: 29px;
     }
 }
 
-.portion3 span {
+.portion5 span {
     max-width: 95px;
     border: 1px solid rgba(255, 255, 255, 0.4);
     box-sizing: border-box;
@@ -357,13 +357,13 @@ ul#horizontal-list li {
 }
 
 @media only screen and (max-width: 1024px) {
-    .portion3 span {
+    .portion5 span {
         font-size: 11px;
         line-height: 13px;
     }
 }
 
-.portion3 .paragraph {
+.portion5 .paragraph {
     font-family: "Inter";
     font-style: normal;
     font-weight: normal;
@@ -375,14 +375,14 @@ ul#horizontal-list li {
 }
 
 @media only screen and (max-width: 1024px) {
-    .portion3 .paragraph {
+    .portion5 .paragraph {
         font-size: 12px;
         line-height: 14px;
         margin: auto;
     }
 }
 
-.portion3 .story {
+.portion5 .story {
     font-family: "Inter";
     font-style: normal;
     font-weight: 500;
@@ -395,19 +395,19 @@ ul#horizontal-list li {
 }
 
 @media only screen and (max-width: 1024px) {
-    .portion3 .story {
+    .portion5 .story {
         font-size: 12px;
         line-height: 14px;
         margin: auto;
     }
 }
 
-.portion3 .slant-line {
+.portion5 .slant-line {
     margin-top: -50px;
 }
 
 @media only screen and (max-width: 1024px) {
-    .portion3 .slant-line {
+    .portion5 .slant-line {
         margin-top: -20px;
     }
 }
