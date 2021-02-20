@@ -6,6 +6,7 @@ import "./Home.css";
 
 import Img1 from "../../images/Testimonial.svg";
 import Img2 from "../../images/black-beautiful-ladies.svg";
+import Img3 from "../../images/shoppingbag-card.svg";
 import Slant from "../../images/slant-line.svg";
 import Joseph from "../../images/Joseph.svg";
 import Adetola from "../../images/Adetola.svg";
@@ -128,6 +129,24 @@ const Home = () => {
                             <h3>Chidi Okeke</h3>
                             <p className="portion4-area">In Somolu &nbsp; <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section className="portion5">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-5 text-left">
+                            <h1>Josiah's Experience</h1>
+                            <span>VENDOR</span>
+                            <p className="paragraph">I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back! I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back!</p>
+                            <p className="story">Share your own story!</p>
+                            <img src={Slant} alt="slant-line" className="slant-line" />
+                        </div>
+                        <div className="">
+                            <div className="portion5-bg">
+                                <img src={Img3} alt="portion5-img" className="portion5-img" />
+                            </div>
                         </div>
                     </div>
                 </div>
