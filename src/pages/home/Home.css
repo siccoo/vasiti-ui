@@ -203,3 +203,12 @@ ul#horizontal-list li {
     padding: 50px 0 50px 0;
 }
 
+.portion4 .portion4-area {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.05em;
+    color: #535353;
+}
