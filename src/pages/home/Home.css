@@ -191,3 +191,9 @@ ul#horizontal-list li {
 .portion3 .slant-line {
     margin-top: -50px;
 }
+
+@media only screen and (max-width: 1024px) {
+    .portion3 .slant-line {
+        margin-top: -20px;
+    }
+}
