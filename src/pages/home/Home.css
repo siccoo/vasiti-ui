@@ -211,4 +211,27 @@ ul#horizontal-list li {
     line-height: 18px;
     letter-spacing: 0.05em;
     color: #535353;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion4 .portion4-area {
+        font-size: 12px;
+        line-height: 14px;
+        margin: auto;
+    }
+}
+
+.portion4 span {
+    background: #EEF8FF;
+    border-radius: 4px;
+    padding: 5px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #0D019A;
 }
