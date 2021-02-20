@@ -151,6 +151,50 @@ const Home = () => {
                     </div>
                 </div>
             </section>
+            <section className="portion6">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-4 text-left">
+                            <img src={Joseph} alt="portion6-img" className="portion6-img" />
+                            <h3>Joseph Ike</h3>
+                            <p className="portion6-area"> <span className="span">VENDOR</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                        <div className="col-md-4 text-left">
+                            <img src={Adetola} alt="portion6-img" className="portion6-img" />
+                            <h3>Adetola Fashina</h3>
+                            <p className="portion6-area"> <span className="span">VENDOR</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                        <div className="col-md-4 text-left">
+                            <img src={Emmanuel} alt="portion6-img" className="portion6-img" />
+                            <h3>Emmanuel Fayemi</h3>
+                            <p className="portion6-area">In Akoka &nbsp; <span className="span">VENDOR</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                    </div>
+                    <div className="row mt-5">
+                        <div className="col-md-4 text-left">
+                            <img src={Chisom} alt="portion6-img" className="portion6-img" />
+                            <h3>Chisom Obilor</h3>
+                            <p className="portion6-area"> <span className="span">VENDOR</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                        <div className="col-md-4 text-left">
+                            <img src={Oluwa} alt="portion6-img" className="portion6-img" />
+                            <h3>Adunoluwa Adeyemi</h3>
+                            <p className="portion6-area"> <span className="span">VENDOR</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                        <div className="col-md-4 text-left">
+                            <img src={Chidi} alt="portion6-img" className="portion6-img" />
+                            <h3>Chidi Okeke</h3>
+                            <p className="portion6-area"> <span className="span">VENDOR</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     )
 }
