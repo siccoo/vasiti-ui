@@ -46,12 +46,14 @@
     border-radius: 4px;
     box-shadow: 1px 4px 8px #ef580333;
     color: #FFFFFF !important;
-    font-family: "Montserrat";
-    font-size: 18px;
-    line-height: 40px;
+    font-family: "Roboto";
+    font-size: 13px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
     padding: 10px 30px;
     max-width: 166px;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 @media only screen and (max-width:1024px) {
