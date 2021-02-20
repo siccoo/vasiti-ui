@@ -16,7 +16,26 @@ const Home = () => {
                     <div className="row">
                         <div className="col-md-12">
                             <div>
-
+                                <ul>
+                                    <li>
+                                        <Link to="/" >MarketPlace</Link>
+                                    </li>
+                                    <li>
+                                        <Link to="/" ></Link>
+                                    </li>
+                                    <li>
+                                        <Link to="/" >Home</Link>
+                                    </li>
+                                    <li>
+                                        <Link to="/" >Home</Link>
+                                    </li>
+                                    <li>
+                                        <Link to="/" >Home</Link>
+                                    </li>
+                                    <li>
+                                        <Link to="/" >Home</Link>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                     </div>
