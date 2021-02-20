@@ -28,7 +28,7 @@ ul#horizontal-list li {
 
 .portion2 {
     background: #fff;
-    padding: 50px 0 50px 0;
+    padding: 50px 0 0 0;
 }
 
 .portion2 h1 {
@@ -63,3 +63,8 @@ ul#horizontal-list li {
     text-align: left;
 }
 
+.portion2 .portion2-img {
+    /* width: 100%; */
+    width: 536px;
+    height: 400px;
+}

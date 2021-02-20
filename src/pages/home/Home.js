@@ -4,6 +4,8 @@ import Navbar from "../../components/navbar/Navbar";
 // import Footer from "../../components/footer/Footer";
 import "./Home.css";
 
+import Img1 from "../../images/Testimonial.svg";
+
 const Home = () => {
     useEffect(() => {
         document.title = "Vasiti | Customer's satisfaction...";
@@ -54,7 +56,7 @@ const Home = () => {
                         </div>
                         <div className="col-md-6">
                             <div className="portion2-bg">
-
+                                <img src={Img1} alt="portion2-img" className="portion2-img" />
                             </div>
                         </div>
                     </div>
