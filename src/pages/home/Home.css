@@ -116,6 +116,8 @@ ul#horizontal-list li {
     line-height: 39px;
     letter-spacing: 0.01em;
     color: #FFFFFF;
+    padding-top: 70px;
+    text-align: left;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -124,3 +126,18 @@ ul#horizontal-list li {
         line-height: 29px;
     }
 }
+
+.portion3 span {
+    max-width: 95px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+

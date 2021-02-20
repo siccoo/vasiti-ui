@@ -72,7 +72,7 @@ const Home = () => {
                                 <img src={Img2} alt="portion3-img" className="portion3-img" />
                             </div>
                         </div>
-                        <div className="col-md-5">
+                        <div className="col-md-5 text-left">
                             <h1>Tolu & Joy’s Experience</h1>
                             <span>CUSTOMER</span>
                             <p>I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back! I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back!</p>
