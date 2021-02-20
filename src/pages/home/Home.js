@@ -89,7 +89,8 @@ const Home = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-4">
-                            <img src={Joseph} alt="profile-img" className="profile-img" />  
+                            <img src={Joseph} alt="profile-img" className="profile-img" />
+                            <p>In Ikeja &nbsp <span>CUSTOMER</span></p>  
                         </div>
                     </div>
                 </div>
