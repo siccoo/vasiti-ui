@@ -90,6 +90,7 @@ const Home = () => {
                     <div className="row">
                         <div className="col-md-4 text-left">
                             <img src={Joseph} alt="portion4-img" className="portion4-img" />
+                            <h3>Joseph Ike</h3>
                             <p className="portion4-area">In Ikeja &nbsp; <span>CUSTOMER</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
