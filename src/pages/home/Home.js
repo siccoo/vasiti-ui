@@ -89,8 +89,9 @@ const Home = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-4">
-                            <img src={Joseph} alt="profile-img" className="profile-img" />
-                            <p>In Ikeja &nbsp <span>CUSTOMER</span></p>  
+                            <img src={Joseph} alt="portion4-img" className="portion4-img" />
+                            <p className="portion4-area">In Ikeja &nbsp <span>CUSTOMER</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                     </div>
                 </div>
