@@ -10,6 +10,9 @@ import Slant from "../../images/slant-line.svg";
 import Joseph from "../../images/Joseph.svg";
 import Adetola from "../../images/Adetola.svg";
 import Emmanuel from "../../images/Emmanuel.svg";
+import Chisom from "../../images/Chisom.svg";
+import Oluwa from "../../images/Oluwa.svg";
+import Chidi from "../../images/Chidi.svg";
 
 const Home = () => {
     useEffect(() => {
@@ -102,6 +105,26 @@ const Home = () => {
                         </div>
                         <div className="col-md-4 text-left">
                             <img src={Emmanuel} alt="portion4-img" className="portion4-img" />
+                            <h3>Emmanuel Fayemi</h3>
+                            <p className="portion4-area">In Akoka &nbsp; <span>CUSTOMER</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                    </div>
+                    <div className="row mt-5">
+                        <div className="col-md-4 text-left">
+                            <img src={Chisom} alt="portion4-img" className="portion4-img" />
+                            <h3>Joseph Ike</h3>
+                            <p className="portion4-area">In Ikeja &nbsp; <span className="span">CUSTOMER</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                        <div className="col-md-4 text-left">
+                            <img src={Oluwa} alt="portion4-img" className="portion4-img" />
+                            <h3>Adetola Fashina</h3>
+                            <p className="portion4-area">Ibadan &nbsp; <span>CUSTOMER</span></p>
+                            <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
+                        </div>
+                        <div className="col-md-4 text-left">
+                            <img src={Chidi} alt="portion4-img" className="portion4-img" />
                             <h3>Emmanuel Fayemi</h3>
                             <p className="portion4-area">In Akoka &nbsp; <span>CUSTOMER</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
