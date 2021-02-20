@@ -342,7 +342,7 @@ ul#horizontal-list li {
 
 .portion5 span {
     max-width: 95px;
-    border: 1px solid rgba(255, 255, 255, 0.4);
+    border: 1px solid #ff5c0066;
     box-sizing: border-box;
     border-radius: 4px;
     font-family: "Inter";
@@ -351,7 +351,7 @@ ul#horizontal-list li {
     font-size: 13px;
     line-height: 16px;
     letter-spacing: 0.02em;
-    color: #FFFFFF;
+    color: #FF5C00;
     padding: 5px;
 }
 
@@ -369,7 +369,7 @@ ul#horizontal-list li {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #FFFFFF;
+    color: #242120;
     margin-top: 30px;
 }
 
@@ -389,7 +389,7 @@ ul#horizontal-list li {
     line-height: 32px;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: #FFFFFF;
+    color: #FF5C00;
     margin-top: 50px
 }
 
