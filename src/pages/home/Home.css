@@ -14,11 +14,10 @@
 .rectangle {
 	display: table;   /* Allow the centering to work */
     margin: 0 auto;
-    min-width: 1440px;
 }
 
 ul#horizontal-list {
-    /* min-width: 1440px; */
+    min-width: 100%;
 	list-style: none;
 	padding: 6px;
 }
@@ -44,3 +43,23 @@ ul#horizontal-list li {
     text-align: left;
     padding-top: 100px;
 }
+
+@media only screen and (max-width: 1024px) {
+    .portion2 h1 {
+        font-size: 32px;
+        line-height: 40px;
+        padding: auto;
+    }
+}
+
+.portion2 p {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 31px;
+    letter-spacing: 0.02em;
+    color: #494949;
+    text-align: left;
+}
+

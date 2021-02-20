@@ -52,6 +52,11 @@ const Home = () => {
                             <h1>Amazing <br/>Experiences from Our Wonderful Customers</h1>
                             <p>Here is what customers and vendors are saying about us, you can share your stories with us too.</p>
                         </div>
+                        <div className="col-md-6">
+                            <div className="portion2-bg">
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
