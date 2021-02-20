@@ -1,1 +1,74 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto:wght@300;400&display=swap');
+
+.navbar {
+    padding: 0px;
+}
+
+.nav-bg {
+    background: transparent !important;
+}
+
+.navbar-nav .nav-item {
+    padding-right: 20px;
+}
+
+.home-logo {
+    width: 120px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .home-logo {
+        width: 80px;
+    }
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    color: #242120;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width:1024px) {
+    .navbar-nav .nav-item .nav-link {
+       font-size: 12px; 
+       line-height: 14px;
+    }
+}
+
+.navbar-nav .nav-item .nav-btn {
+    background: #F78500;
+    border-radius: 49px;
+    color: #FFFFFF !important;
+    font-family: "Montserrat";
+    font-size: 18px;
+    line-height: 40px;
+    padding: 10px 30px;
+    max-width: 166px;
+    text-decoration: none;
+}
+
+@media only screen and (max-width:1024px) {
+    .navbar-nav .nav-item .nav-btn {
+       font-size: 12px; 
+       line-height: 20px;
+       padding: 8px 15px;
+    }
+}
+
+.navbar-toggler {
+    width: 50px;
+    border: none;
+}
+
+.navbar-toggler .line{
+    float: left;
+    width: 100%;
+    height: 2px;
+    background-color: #F78500;
+    margin-bottom: 5px;
+}
