@@ -27,7 +27,13 @@ ul#horizontal-list li {
 		display: inline;
 }
 
-.portion1 h1 {
+.portion2 {
+    background: #fff;
+    padding: 50px 0 50px 0;
+}
+
+.portion2 h1 {
+    max-width: 586px;
     font-family: "Inter";
     font-style: normal;
     font-weight: bold;
@@ -35,4 +41,5 @@ ul#horizontal-list li {
     line-height: 60px;
     letter-spacing: -0.02em;
     color: #000000;
+    text-align: left;
 }

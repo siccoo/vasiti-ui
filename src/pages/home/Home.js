@@ -16,7 +16,7 @@ const Home = () => {
             <section className="portion1">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-12 text-center">
+                        <div className="col-md-12">
                             <div className="menu-outer">
                                 <div className="rectangle">
                                     <ul id="horizontal-list">
@@ -43,6 +43,10 @@ const Home = () => {
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
+            <section className="portion2">
+                <div className="container">
                     <div className="row">
                         <div className="col-md-6">
                             <h1>Amazing Experiences from Our Wonderful Customers</h1>
