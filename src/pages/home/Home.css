@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto:wght@300;400&display=swap');
+
+.portion1 .rectangle {
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-sizing: border-box;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.04);
+}
+
+.menu-outer {
+    height: 50px;
+}
+
+.rectangle {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	max-width: 100%;
+	list-style: none;
+	padding-top: 20px;
+}
+    
+ul#horizontal-list li {
+		display: inline;
+}

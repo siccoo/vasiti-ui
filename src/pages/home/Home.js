@@ -10,32 +10,36 @@ const Home = () => {
     }, []);
     return (
         <div>
-            <section className="header">
+            <section>
                 <Navbar />
+            </section>
+            <section className="portion1">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
-                            <div>
-                                <ul>
-                                    <li>
-                                        <Link to="/" >MarketPlace</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/" ></Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/" >Home</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/" >Home</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/" >Home</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/" >Home</Link>
-                                    </li>
-                                </ul>
+                            <div className="menu-outer">
+                                <div className="rectangle">
+                                    <ul id="horizontal-list">
+                                        <li>
+                                            <Link to="/" >MarketPlace</Link>
+                                        </li>
+                                        <li>
+                                            <Link to="/" >Wholesale Center</Link>
+                                        </li>
+                                        <li>
+                                            <Link to="/" >Seller Center</Link>
+                                        </li>
+                                        <li>
+                                            <Link to="/" >Services</Link>
+                                        </li>
+                                        <li>
+                                            <Link to="/" >Internships</Link>
+                                        </li>
+                                        <li>
+                                            <Link to="/" >Events</Link>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
