@@ -54,12 +54,17 @@ const Home = () => {
                             <h1>Amazing <br/>Experiences from Our Wonderful Customers</h1>
                             <p>Here is what customers and vendors are saying about us, you can share your stories with us too.</p>
                         </div>
-                        <div className="col-md-6">
+                        <div className="">
                             <div className="portion2-bg">
                                 <img src={Img1} alt="portion2-img" className="portion2-img" />
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
+            <section className="portion3">
+                <div className="container">
+
                 </div>
             </section>
         </div>
