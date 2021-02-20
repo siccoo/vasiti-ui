@@ -26,3 +26,13 @@ ul#horizontal-list {
 ul#horizontal-list li {
 		display: inline;
 }
+
+.portion1 h1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
