@@ -300,3 +300,114 @@ ul#horizontal-list li {
         line-height: 14px;
     }
 }
+
+.portion5 {
+    background: #FFF8F5;
+    padding: 40px 0 0 0;
+}
+
+.portion5 .portion5-bg {
+    background: url('../../images/Ellipse8.svg') no-repeat center center;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover; 
+   background-size: cover;
+   position: relative;
+   width: 631px;
+   /* margin-top: 150px; */
+}
+
+.portion5 .portion5-img {   
+    width: 100%;
+    height: 572px;
+}
+
+.portion5 h1 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    padding-top: 70px;
+    text-align: left;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion2 h1 {
+        font-size: 22px;
+        line-height: 29px;
+    }
+}
+
+.portion3 span {
+    max-width: 95px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion3 span {
+        font-size: 11px;
+        line-height: 13px;
+    }
+}
+
+.portion3 .paragraph {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion3 .paragraph {
+        font-size: 12px;
+        line-height: 14px;
+        margin: auto;
+    }
+}
+
+.portion3 .story {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 50px
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion3 .story {
+        font-size: 12px;
+        line-height: 14px;
+        margin: auto;
+    }
+}
+
+.portion3 .slant-line {
+    margin-top: -50px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion3 .slant-line {
+        margin-top: -20px;
+    }
+}
