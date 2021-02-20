@@ -113,20 +113,20 @@ const Home = () => {
                     <div className="row mt-5">
                         <div className="col-md-4 text-left">
                             <img src={Chisom} alt="portion4-img" className="portion4-img" />
-                            <h3>Joseph Ike</h3>
-                            <p className="portion4-area">In Ikeja &nbsp; <span className="span">CUSTOMER</span></p>
+                            <h3>Chisom Obilor</h3>
+                            <p className="portion4-area">In Magodo &nbsp; <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                         <div className="col-md-4 text-left">
                             <img src={Oluwa} alt="portion4-img" className="portion4-img" />
-                            <h3>Adetola Fashina</h3>
-                            <p className="portion4-area">Ibadan &nbsp; <span>CUSTOMER</span></p>
+                            <h3>Adunoluwa Adeyemi</h3>
+                            <p className="portion4-area">Iwo Road &nbsp; <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                         <div className="col-md-4 text-left">
                             <img src={Chidi} alt="portion4-img" className="portion4-img" />
-                            <h3>Emmanuel Fayemi</h3>
-                            <p className="portion4-area">In Akoka &nbsp; <span>CUSTOMER</span></p>
+                            <h3>Chidi Okeke</h3>
+                            <p className="portion4-area">In Somolu &nbsp; <span className="span">VENDOR</span></p>
                             <p>Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi. Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim.</p>  
                         </div>
                     </div>
