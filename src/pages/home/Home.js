@@ -7,6 +7,9 @@ import "./Home.css";
 import Img1 from "../../images/Testimonial.svg";
 import Img2 from "../../images/black-beautiful-ladies.svg";
 import Slant from "../../images/slant-line.svg";
+import Joseph from "../../images/Joseph.svg";
+import Adetola from "../../images/Adetola.svg";
+import Emmanuel from "../../images/Emmanuel.svg";
 
 const Home = () => {
     useEffect(() => {
@@ -85,8 +88,8 @@ const Home = () => {
             <section className="portion4">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-3">
-
+                        <div className="col-md-4">
+                            <img src={Joseph} alt="profile-img" className="profile-img" />  
                         </div>
                     </div>
                 </div>
