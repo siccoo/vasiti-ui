@@ -10,3 +10,13 @@
     margin-top: 50px;
     padding: 50px;
 }
+
+.portion .member-image {
+    background: url('../../images/Ellipse3.svg') no-repeat center center;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover; 
+   background-size: cover;
+   position: relative;
+   border: 50%;
+}

@@ -14,7 +14,10 @@ const Message = () => {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             <div className="message-content">
-                                <img src={Member} alt="member-img" className="member-img" />
+                                <div className="member-image">
+                                    <img src={Member} alt="member-img" className="member-img" />
+                                </div>
+                                
                                 <h3>Thank you for sharing your story!</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                 <button className="btn" type="submit">Close</button>
