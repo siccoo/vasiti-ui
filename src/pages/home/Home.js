@@ -32,7 +32,7 @@ const Home = () => {
             <section>
                 <Navbar />
             </section>
-            <section className="portion1">
+            {/* <section className="portion1">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
@@ -63,7 +63,7 @@ const Home = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             <section className="portion2">
                 <div className="container">
                     <div className="row">
