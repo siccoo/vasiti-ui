@@ -7,7 +7,9 @@ const Share = () => {
     }, []);
     return (
         <div>
-            This is share component
+            <section className="portio                                                                                                                                                                                                         ">
+
+            </section>
         </div>
     )
 }
