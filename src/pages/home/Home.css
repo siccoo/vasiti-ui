@@ -560,5 +560,13 @@ ul#horizontal-list li {
     background: #FFFFFF;
     box-shadow: 1px 4px 8px #ef580333;
     border-radius: 4px;
-    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.02em;
+    color: #242120;
+    text-transform: uppercase;
+    padding: 12px 24px;
 }
