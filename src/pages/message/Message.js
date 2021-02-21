@@ -20,7 +20,7 @@ const Message = () => {
                                 
                                 <h3 className="mt-2">Thank you for sharing your story!</h3>
                                 <p className="mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <button className="btn mt-4" type="submit">Close</button>
+                                <button className="btn mt-5" type="submit">Close</button>
                             </div>
                         </div>
                     </div>

@@ -47,7 +47,7 @@ const Topbar = () => {
                             <li className="nav-item">
                                 <NavLink
                                     className="nav-link"
-                                    to="/message"
+                                    to="/"
                                 >
                                 Login
                                 </NavLink>
@@ -55,7 +55,7 @@ const Topbar = () => {
                             <li className="nav-item">
                                 <NavLink
                                     className="nav-btn"
-                                    to="/share"
+                                    to="/"
                                 >   
                                 Sign Up
                                 </NavLink>

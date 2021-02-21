@@ -24,6 +24,16 @@
    margin: auto;
 }
 
+.portion .member-img {
+    margin-top: 40px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion .member-img {
+        margin-top: 10px;
+    }
+}
+
 .portion h3 {
     max-width: 250px;
     font-family: "Inter";
@@ -61,5 +71,27 @@
     .portion p {
         font-size: 12px;
         line-height: 19px;
+    }
+}
+
+.portion .btn {
+    background: #FF5C00;
+    box-shadow: 2px 8px 30px rgba(230, 83, 0, 0.18);
+    border-radius: 8px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    padding: 10px 40px;
+} 
+
+@media only screen and (max-width: 1024px) {
+    .portion .btn {
+        padding: 6px 24px;
+        font-size: 12px;
+        margin: auto;
     }
 }
