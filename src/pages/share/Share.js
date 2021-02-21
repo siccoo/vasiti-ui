@@ -7,8 +7,8 @@ const Share = () => {
     }, []);
     return (
         <div>
-            <section className="portio                                                                                                                                                                                                         ">
-
+            <section className="port">
+                
             </section>
         </div>
     )
