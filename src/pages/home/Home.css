@@ -215,14 +215,6 @@ ul#horizontal-list li {
     margin-bottom: 15px;
 }
 
-@media only screen and (max-width: 1024px) {
-    .portion4 h3 {
-        font-size: 16px;
-        line-height: 21px;
-        margin: auto;
-    }
-}
-
 .portion4 .portion4-area {
     font-family: "Inter";
     font-style: normal;

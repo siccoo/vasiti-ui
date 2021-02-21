@@ -7,7 +7,7 @@
 }
 
 .portion .message-content {
-    margin-top: 50px;
+    margin-top: 30px;
     padding: 50px;
 }
 
@@ -18,5 +18,48 @@
    -o-background-size: cover; 
    background-size: cover;
    position: relative;
-   border: 50%;
+   border-radius: 50%;
+   width: 155px;
+   height: 155px;
+   margin: auto;
+}
+
+.portion h3 {
+    max-width: 250px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #000000;
+    margin: auto;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion h3 {
+        font-size: 14px;
+        line-height: 20px;
+        margin: auto;
+    }
+}
+
+.portion p {
+    max-width: 356px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #4A4A4A;
+    margin: auto;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion p {
+        font-size: 12px;
+        line-height: 19px;
+    }
 }
