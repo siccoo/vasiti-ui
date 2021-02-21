@@ -214,6 +214,13 @@ const Home = () => {
                                 Be a  member of our community
                                 &nbsp;  <img src={Member} alt="member-img" className="member-img" />
                             </h3>
+                            <p>We’d make sure you’re always first to know what’s happening on Vasiti—thus, the world.</p>
+                            <div className="input-group">
+                                <input type="email" className="form-control" placeholder="Enter your email" />
+                                <span className="input-group-btn">
+                                    <button className="btn" type="submit">Subscribe Now</button>
+                                </span>
+                            </div>
                         </div>
                     </div>
                 </div>
