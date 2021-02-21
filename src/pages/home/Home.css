@@ -496,7 +496,17 @@ ul#horizontal-list li {
 
 .portion7 {
     background: #25201D;
-    padding: 50px 0 40px 0;
+    padding: 50px 0 0px 0;
+}
+
+.portion7 .portion7-img {
+    margin-top: -90px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion7 .portion7-img {
+        margin: auto;
+    }
 }
 
 .portion7 h3 {
@@ -508,7 +518,7 @@ ul#horizontal-list li {
     line-height: 40px;
     letter-spacing: -0.03em;
     color: #FFFFFF;
-    margin-top: 100px;
+    margin-top: 30px;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -569,4 +579,12 @@ ul#horizontal-list li {
     color: #242120;
     text-transform: uppercase;
     padding: 12px 24px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion7 .btn {
+        padding: 6px 12px;
+        font-size: 12px;
+        margin: auto;
+    }
 }
