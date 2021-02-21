@@ -8,7 +8,7 @@ const Footer = () => {
             <section className="footer">
                     <div class="container">
                     <div class="row text-left">
-                        <div class="col-1-5">
+                        <div class="col-2-5">
                             <div class="footer-col middle" id="about">
                                 <h4>Company</h4>
                                 <ul class="list-unstyled li-space-lg p-small">
@@ -27,7 +27,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </div> 
-                        <div class="col-1-5">
+                        <div class="col-2-5">
                             <div class="footer-col middle">
                                 <h4>Our Events</h4>
                                 <ul class="list-unstyled li-space-lg p-small">
@@ -46,7 +46,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </div> 
-                        <div class="col-1-5">
+                        <div class="col-2-5">
                             <div class="footer-col middle">
                                 <h4>Platform</h4>
                                 <ul class="list-unstyled li-space-lg p-small">
@@ -68,7 +68,7 @@ const Footer = () => {
                             </div>
                         </div>   
                         <br />
-                        <div class="col-1-5">
+                        <div class="col-2-5">
                             <div class="footer-col middle">
                                 <h4>Resources</h4>
                                 <ul class="list-unstyled li-space-lg p-small">
@@ -88,7 +88,7 @@ const Footer = () => {
                                 </ul>
                             </div> 
                         </div> 
-                        <div class="col-1-5">
+                        <div class="col-2-5">
                             <div class="footer-col last">
                                 <h4>Contact</h4>
                                 <ul class="list-unstyled li-space-lg p-small">
