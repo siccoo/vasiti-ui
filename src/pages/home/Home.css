@@ -510,3 +510,34 @@ ul#horizontal-list li {
     color: #FFFFFF;
     margin-top: 100px;
 }
+
+@media only screen and (max-width: 1024px) {
+    .portion7 h3 {
+        font-size: 20px;
+        line-height: 21px;
+        margin: auto;
+    }
+}
+
+.portion7 .member-img {
+    max-width: 40px;
+    height: 62px;
+}
+
+.portion7 p {
+    max-width: 368px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion7 p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+}
