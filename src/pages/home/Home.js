@@ -91,7 +91,7 @@ const Home = () => {
                             <h1>Tolu & Joy’s Experience</h1>
                             <span>CUSTOMER</span>
                             <p className="paragraph">I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back! I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back!</p>
-                            <p className="story">Share your own story!</p>
+                            <Link to="/share" className="story">Share your own story!</Link>
                             <img src={Slant} alt="slant-line" className="slant-line" />
                         </div>
                     </div>
@@ -148,7 +148,7 @@ const Home = () => {
                             <h1>Josiah's Experience</h1>
                             <span>VENDOR</span>
                             <p className="paragraph">I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back! I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back!</p>
-                            <p className="story">Share your own story!</p>
+                            <Link to="/share" className="story">Share your own story!</Link>
                             <img src={Slant} alt="slant-line" className="slant-line" />
                         </div>
                         <div className="">
