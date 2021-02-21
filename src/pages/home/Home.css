@@ -382,6 +382,7 @@ ul#horizontal-list li {
     line-height: 32px;
     letter-spacing: 0.2em;
     text-transform: uppercase;
+    text-decoration: none;
     color: #FF5C00;
     margin-top: 50px
 }
@@ -395,7 +396,7 @@ ul#horizontal-list li {
 }
 
 .portion5 .slant-line {
-    margin-top: -50px;
+    margin-top: -25px;
 }
 
 @media only screen and (max-width: 1024px) {
