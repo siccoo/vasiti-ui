@@ -541,3 +541,24 @@ ul#horizontal-list li {
         line-height: 16px;
     }
 }
+
+.portion7 #email {
+    background: #ffffff33;
+    border-radius: 6px;
+    padding: .4em .3em;
+    border: 2px solid #ffffff33;
+    width: 40%;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion7 #email {
+        padding: .4em .3em;
+    }
+}
+
+.portion7 .btn {
+    background: #FFFFFF;
+    box-shadow: 1px 4px 8px #ef580333;
+    border-radius: 4px;
+    
+}
