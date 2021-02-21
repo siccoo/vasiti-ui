@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto:wght@300;400&display=swap');
+
+.portion {
+    /* max-width: 527px; */
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+.portion .message-content {
+    margin-top: 50px;
+    padding: 50px;
+}
