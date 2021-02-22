@@ -31,18 +31,18 @@ const Share = () => {
                                     <label for="share">Share your story</label>
                                     <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
                                 </div>
-                                <div className="form-check form-check-inline row">
+                                <div className="form-check form-check-inline ">
                                     <label>What did you interact with Vasiti as?</label>
                                     <div className="form-check form-check-inline">
                                         <input className="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" />
-                                        <label className="form-check-label" for="inlineRadio1">1</label>
+                                        <label className="form-check-label" for="inlineRadio1">Customer</label>
                                     </div>
                                     <div className="form-check form-check-inline">
                                         <input className="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2" />
-                                        <label className="form-check-label" for="inlineRadio2">2</label>
+                                        <label className="form-check-label" for="inlineRadio2">Vendor</label>
                                     </div>
                                 </div>
-                                <button type="submit" className="">Share your story!</button>
+                                <button type="submit" className="btn">Share your story!</button>
                             </form>
                         </div>
                     </div>
