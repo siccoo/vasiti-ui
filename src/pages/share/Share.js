@@ -32,7 +32,7 @@ const Share = () => {
                                     <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Tell us anything" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
                                 </div>
                                 <div className="col-md-7">
-                                    <p>What did you interact with Vasiti as?</p>
+                                    <label>What did you interact with Vasiti as?</label>
                                 </div>
                                 <div className="col-md-5">
                                     <div className="form-check form-check-inline">

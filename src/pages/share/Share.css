@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto:wght@300;400&display=swap');
 
 .portion {
-    max-width: 527px;
+    max-width: 687px;
     padding: 3em 3em 1em;
     margin: auto;
 }
@@ -11,5 +11,21 @@
         max-width: 400px;
         margin: auto;
         padding: 15px;
+    }
+}
+
+.portion label {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.04em;
+    color: #676767;
+}
+
+@media only screen and (max-width: 1024px) {
+    .portion label {
+        font-size: 12px;
     }
 }
