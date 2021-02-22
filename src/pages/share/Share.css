@@ -3,6 +3,7 @@
 .portion {
     max-width: 527px;
     padding: 3em 3em 1em;
+    margin: auto;
 }
 
 @media only screen and (max-width:1024px) {

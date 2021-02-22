@@ -14,19 +14,21 @@ const Share = () => {
                             <h3>Share your amazing story</h3>
                             <form>
                                 <div className="form-group">
-                                    <label for="exampleFormControlInput1">Email address</label>
-                                    <input type="email" id="email" placeholder="name@example.com" />
+                                    <label for="exampleFormControlInput1">Upload your picture</label>
+                                    <input type="image" id="image" placeholder="Choose image" />
                                 </div>
                                 <div className="row">
                                     <div className="col">
+                                        <label for="first-name">First Name</label>
                                         <input type="text" placeholder="First name" />
                                     </div>
                                     <div className="col">
+                                        <label for="last-name">Last Name</label>
                                         <input type="text" placeholder="Last name" />
                                     </div>
                                 </div>
                                 <div className="form-group">
-                                    <label for="help">How May We Help You <span>*</span></label>
+                                    <label for="share">Share your story</label>
                                     <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Tell us anything" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
                                 </div>
                                 <div className="col-md-7">
