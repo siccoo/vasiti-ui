@@ -11,8 +11,8 @@ const Share = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
-                            <h3>Share your amazing story</h3>
-                            <form>
+                            <h3 className="text-center">Share your amazing story</h3>
+                            <form className="text-left">
                                 <div className="form-group">
                                     <label for="exampleFormControlInput1">Upload your picture</label>
                                     <input type="image" id="image" placeholder="Choose image" />
