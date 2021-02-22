@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Roboto:wght@300;400&display=swap');
+
+.portion {
+    max-width: 527px;
+    padding: 3em 3em 1em;
+}
+
+@media only screen and (max-width:1024px) {
+    .portion {
+        max-width: 400px;
+        margin: auto;
+        padding: 15px;
+    }
+}

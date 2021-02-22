@@ -42,6 +42,7 @@ const Share = () => {
                                         <label className="form-check-label" for="inlineRadio2">2</label>
                                     </div>
                                 </div>
+                                <button type="submit" className="">Share your story!</button>
                             </form>
                         </div>
                     </div>
