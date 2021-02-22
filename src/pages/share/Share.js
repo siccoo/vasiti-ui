@@ -19,11 +19,15 @@ const Share = () => {
                                 </div>
                                 <div class="row">
                                     <div class="col">
-                                        <input type="text" class="form-control" placeholder="First name" />
+                                        <input type="text" placeholder="First name" />
                                     </div>
                                     <div class="col">
-                                        <input type="text" class="form-control" placeholder="Last name" />
+                                        <input type="text" placeholder="Last name" />
                                     </div>
+                                </div>
+                                <div className="form-group">
+                                    <label for="help">How May We Help You <span>*</span></label>
+                                    <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Tell us anything" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
                                 </div>
                             </form>
                         </div>
