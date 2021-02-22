@@ -7,8 +7,14 @@ const Share = () => {
     }, []);
     return (
         <div>
-            <section className="port">
-                
+            <section className="portion">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-12">
+                            <h3>Share your amazing story</h3>
+                        </div>
+                    </div>
+                </div>
             </section>
         </div>
     )
