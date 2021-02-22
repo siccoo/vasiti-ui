@@ -33,12 +33,11 @@
 .portion input[type="text"],
 input[type="image"] {
     padding: .6em .5em;
-    background: #FFFFFF;
-    border: 1px solid #7C808D;
+    background: #FEFEFE;
+    border: 1px solid #EAEAEA;
     box-sizing: border-box;
-    border-radius: 4px;
+    border-radius: 8px;
     width: 100%;
-    box-sizing: border-box;
 }
 
 @media (max-width: 1024px) {
@@ -53,4 +52,19 @@ input[type="image"] {
     ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
         font-size: 10px;
       }
+}
+
+.portion textarea {
+    padding: .2em .5em;
+    background: #FFFFFF;
+    border: 1px solid #7C808D;
+    box-sizing: border-box;
+    border-radius: 4px; 
+    width: 100%;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .portion textarea {
+        padding: .2em .2em;
+    }
 }

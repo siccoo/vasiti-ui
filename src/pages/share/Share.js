@@ -20,21 +20,19 @@ const Share = () => {
                                 <div className="row">
                                     <div className="col">
                                         <label for="first-name">First Name</label>
-                                        <input type="text" placeholder="First name" />
+                                        <input type="text" placeholder="Oluwatioluwalase" />
                                     </div>
                                     <div className="col">
                                         <label for="last-name">Last Name</label>
-                                        <input type="text" placeholder="Last name" />
+                                        <input type="text" placeholder="Wellington" />
                                     </div>
                                 </div>
                                 <div className="form-group">
                                     <label for="share">Share your story</label>
-                                    <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Tell us anything" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
+                                    <textarea name="message" cols="20" rows="5" className="upLabel"  placeholder="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" />
                                 </div>
-                                <div className="col-md-7">
+                                <div className="form-check form-check-inline row">
                                     <label>What did you interact with Vasiti as?</label>
-                                </div>
-                                <div className="col-md-5">
                                     <div className="form-check form-check-inline">
                                         <input className="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" />
                                         <label className="form-check-label" for="inlineRadio1">1</label>
